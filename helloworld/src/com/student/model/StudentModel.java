@@ -15,6 +15,7 @@ public class StudentModel {
 		this.password = password ;
 		this.sex = sex;
 		this.love = love ;
+		system.out.printf("20180217061-彭建华")；
 
 	}
 	
